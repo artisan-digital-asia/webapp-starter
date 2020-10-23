@@ -4,7 +4,7 @@ on:
     inputs:
       command:
         description: 'The command to run'
-        default: 'bash /home/ubuntu/deploy-portal.sh'
+        default: 'pwd'
         required: true
 
 jobs:
